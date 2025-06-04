@@ -1,0 +1,11 @@
+/* ... (existing styles from Page.module.css) ... */
+
+.contactList {
+  list-style: none;
+  padding: 0;
+  font-size: 1.1rem;
+}
+
+.contactList li {
+  margin-bottom: 0.75rem;
+}
